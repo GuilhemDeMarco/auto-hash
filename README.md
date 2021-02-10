@@ -2,4 +2,8 @@
 
 # Usage:
 
-![Command line](https://i.imgur.com/zvHDCyy.png)
+![Command prompt](https://i.imgur.com/zvHDCyy.png)
+
+OR
+
+![Arguments](https://i.imgur.com/o8t8DSc.png)
