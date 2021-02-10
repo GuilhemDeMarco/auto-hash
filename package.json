@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "glob": "^7.1.6",
     "node-recursive-directory": "^1.2.0"
   }
 }
